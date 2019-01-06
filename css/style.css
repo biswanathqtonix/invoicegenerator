@@ -1,0 +1,59 @@
+.body{
+	font-family: Arial, Halvetica, sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+	padding: 0;
+	margin:0;
+	background-color: #f4f4f4;
+}
+
+strong {
+	font-size: 13px;
+}
+
+.container {
+	-webkit-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.29);
+	-moz-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.29);
+	box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.29);
+}
+
+#invoice {
+	margin: 40px;
+}
+
+#branding {
+	padding-top: 50px;
+}
+
+.hero-right h1{
+	font-weight: bolder;
+	font-size: 50px;
+	margin-bottom: 40px;
+}
+
+.right-values {
+	text-align-last: end;
+}
+
+.reference_date {
+	color: #ff0013;
+}
+
+#info_billing {
+	margin-top: 40px;
+}
+
+.info-heading h3 {
+	font-size: 30px;
+	color: #ff0013;
+}
+
+.details p {
+	line-height: 1;
+	padding-left: 10px;
+}
+
+#bill-details {
+	margin-top: 40px;
+	padding-bottom: 50px;
+}
